@@ -1,9 +1,9 @@
-import React from "react";
+import Card from "../component/ui/Card";
 
 const FavoritesPage = () => {
   return (
     <div>
-      <h1>favorites page</h1>
+      <Card></Card>
     </div>
   );
 };
