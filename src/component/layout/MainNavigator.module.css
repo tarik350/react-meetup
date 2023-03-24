@@ -41,7 +41,10 @@
 .badge {
   background-color: #cc2062;
   color: white;
-  border-radius: 12px;
-  padding: 0 1rem;
+
+  border-radius: 200px;
+  padding: 0.5rem 0.7rem;
   margin-left: 0.5rem;
+  position: absolute;
+  top: 1%;
 }
